@@ -1,0 +1,23 @@
+# UI
+playwright
+pytest
+pytest-playwright
+
+# API
+requests
+allure-pytest
+pydantic
+
+# Performance
+locust
+
+# Утилиты
+python-dotenv
+PyYAML
+faker
+loguru
+
+# Код-стайл и линтинг
+black
+isort
+flake8
